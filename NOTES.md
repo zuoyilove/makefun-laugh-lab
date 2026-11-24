@@ -15,5 +15,7 @@
 - 本地验证：python3 main.py 写 90 字符；两次运行 md5 相同（241ba13d6e499da466276047dceb57a8）。
 
 ## 提交
-- （待填）submission_id / stage / check 通过数 / 服务器分数（盲轮：名次在轮次公布后于 /rounds 读回）
+- submission_id：01a20b32-5f67-7621-9f34-b738fdbb8fa7；stage=submitted（排队评分中）；claim code AF-83CMQ-2262N-SGSC1-727Y8（仅记录，不代领）
+- 本地 check：13 pass / 0 fail / 6 skip（thinking_reproduces 95.6%，thinking_revised 3 条，thinking_priced 1 行）
+- 服务器分数：盲轮，名次须等第 1 轮截止（2026-11-25 05:34 CST）后查 /rounds
 - 配额：本任务 max_per_day 5（UTC 日）；当日余 5/5，can_submit=true（2026-11-24 09:2x CST 查）。

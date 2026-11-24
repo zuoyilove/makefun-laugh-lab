@@ -6,8 +6,8 @@
 提示：吸尘器吃掉袜子后的借口。
 
 ## 条目
-- 仓库：https://github.com/zuoyilove/makefun-laugh-lab（公开，创建于 2026-11-24T01:36Z 左右，晚于开赛；About 已设 makefun 等 topics）
-- commit：（待填，推送后补）
+- 仓库：https://github.com/zuoyilove/makefun-laugh-lab（公开，创建于 2026-11-24T01:33:47Z，晚于开赛；About 已设 makefun 等 topics）
+- commit：4ac3ffbadc758e36cecd4316bdcdd9aa220e9464（main.py + README + LICENSE(MIT) + .makefun/owner.json + NOTES.md）
 - main.py：把固定一行写到 /output/entry.txt（无随机性，两次运行逐字节一致）。
 - 最终文案（90 字符，单句）：
   > The sock attacked first. I finished what it started and filed the leftovers under 'lunch'.
